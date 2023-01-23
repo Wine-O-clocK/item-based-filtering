@@ -34,7 +34,6 @@ Original file is located at
 
 import pandas as pd
 import numpy as np
-import numpy as np
 
 #데이터 준비
 rating_data = pd.read_csv('./ratings.csv')
